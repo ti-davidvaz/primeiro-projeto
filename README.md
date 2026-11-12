@@ -7,7 +7,7 @@ Projeto desenvolvido durante o curso de Java da **Alura**, focado em praticar os
 ## 📌 O que foi praticado neste código:
 
 - **Sintaxe e Variáveis:** Manipulação de tipos de dados (`int`, `double`, `String`).
-- **Estruturas de Controlo:** Uso de condicionais (`if/else`) e laços de repetição (`while` / `for`).
+- **Estruturas de Controle:** Uso de condicionais (`if/else`) e laços de repetição (`while` / `for`).
 - **Orientação a Objetos (se aplicável):** Criação de classes, métodos e atributos.
 
 ---
